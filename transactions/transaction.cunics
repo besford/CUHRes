@@ -1,0 +1,12 @@
+{ "action": "ApplyRaise", "id": "Staff", "amount": 5.5, "isPercentage": false }
+{ "action": "UpdateEmployee", "id": 12, "role": "RA", "hours": 40 }
+{ "action": "UpdateEmployee", "id": 5, "fname": "Curtis", "lname": "Costco", "role": "TA", "hours": 7, "type": "part-time", "start_term": "2017-12-01", "end_term": "2019-10-05" }
+{ "action": "DestroyRole", "id": 1, "role": "TA" }
+{ "action": "ApplyRaise", "id": "Faculty", "amount": 110, "isPercentage": true }
+{ "action": "AddEmployee", "fname": "Tony", "lname": "Stark" }
+{ "action": "UpdateEmployee", "id": 30, "start_leave": "2025-05-01", "end_leave": "2035-07-01", "leave_percentage": 50 }
+{ "action": "UpdateEmployee", "id": 46, "role": "TA", "type": "term", "hours": 27, "start_term": "2017-09-01", "leave_term": "2017-12-24" }
+{ "action": "UpdateEmployee", "id": 44, "role": "RA", "hours": 17, "start_term": "2017-01-01", "end_term": "2018-10-11", "type": "part-time" } 
+{ "action": "UpdateEmployee", "id": 25, "role": "TA", "type": "term", "hours": 23, "start_term": "2017-06-01", "end_term": "2017-11-11" }
+{ "action": "AddEmployee", "fname": "Billy", "lname": "Bones" }
+{ "action": "UpdateEmployee", "id": 47, "role": "Staff", "hours": 40, "type": "continuing" }

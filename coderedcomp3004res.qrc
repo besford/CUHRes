@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>transactions/init.cunics</file>
+        <file>transactions/transaction.cunics</file>
+    </qresource>
+</RCC>

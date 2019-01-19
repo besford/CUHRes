@@ -1,0 +1,94 @@
+{ "action": "AddEmployee", "fname": "William", "lname": "Johns", "start_leave": "2017-05-01", "end_leave": "2017-06-01" }
+{ "action": "AddEmployee", "fname": "John", "lname": "Deere" }
+{ "action": "AddEmployee", "fname": "Example", "lname": "Billy" }
+{ "action": "AddEmployee", "fname": "Bobby", "lname": "James" }
+{ "action": "AddEmployee", "fname": "Expected", "lname": "Value" }
+{ "action": "AddEmployee", "fname": "Carlos", "lname": "Cavaro" }
+{ "action": "AddEmployee", "fname": "Benjamin", "lname": "Button" }
+{ "action": "AddEmployee", "fname": "Buffalo", "lname": "Chicken" }
+{ "action": "AddEmployee", "fname": "Connor", "lname": "Canadian" }
+{ "action": "AddEmployee", "fname": "Seasoned", "lname": "Salami" }
+{ "action": "AddEmployee", "fname": "Kramer", "lname": "Ericson" }
+{ "action": "AddEmployee", "fname": "George", "lname": "Costanza" }
+{ "action": "AddEmployee", "fname": "Gabrielle", "lname": "Gotfried" }
+{ "action": "AddEmployee", "fname": "House", "lname": "Warming" }
+{ "action": "AddEmployee", "fname": "Weather", "lname": "Trian" }
+{ "action": "AddEmployee", "fname": "Eric", "lname": "Cavaro" }
+{ "action": "AddEmployee", "fname": "Christopher", "lname": "Waltz" }
+{ "action": "AddEmployee", "fname": "Bacon", "lname": "Batter" }
+{ "action": "AddEmployee", "fname": "James", "lname": "Gonathan" }
+{ "action": "AddEmployee", "fname": "Alex", "lname": "Ruskie" }
+{ "action": "AddEmployee", "fname": "Kevin", "lname": "Kebab" }
+{ "action": "AddEmployee", "fname": "James", "lname": "Franco" }
+{ "action": "AddEmployee", "fname": "Moneris", "lname": "Medium" }
+{ "action": "AddEmployee", "fname": "Squaery", "lname": "Triangle" }
+{ "action": "AddEmployee", "fname": "Tyler", "lname": "Durden" }
+{ "action": "AddEmployee", "fname": "Timothy", "lname": "Trousers" }
+{ "action": "AddEmployee", "fname": "Matthew", "lname": "Smith" }
+{ "action": "AddEmployee", "fname": "Eric", "lname": "McCracken" }
+{ "action": "AddEmployee", "fname": "Tyreese", "lname": "Testing" }
+{ "action": "AddEmployee", "fname": "Brandon", "lname": "Chiang" }
+{ "action": "AddEmployee", "fname": "Menna", "lname": "Dalal" }
+{ "action": "AddEmployee", "fname": "Belinda", "lname": "Gab" }
+{ "action": "AddEmployee", "fname": "Elisa", "lname": "Chan" }
+{ "action": "AddEmployee", "fname": "Matt", "lname": "Despatie" }
+{ "action": "AddEmployee", "fname": "Austin", "lname": "Richard" }
+{ "action": "AddEmployee", "fname": "Scott", "lname": "Patel" }
+{ "action": "AddEmployee", "fname": "James", "lname": "Chiu" }
+{ "action": "AddEmployee", "fname": "William", "lname": "Wallace" }
+{ "action": "AddEmployee", "fname": "Hussain", "lname": "Lestcher" }
+{ "action": "AddEmployee", "fname": "Harold", "lname": "Talke" }
+{ "action": "AddEmployee", "fname": "Abraham", "lname": "Fisk" }
+{ "action": "AddEmployee", "fname": "Arnold", "lname": "Duncan" }
+{ "action": "AddEmployee", "fname": "Christopher", "lname": "Wallace" }
+{ "action": "AddEmployee", "fname": "Hiver", "lname": "Ziven" }
+{ "action": "AddEmployee", "fname": "Conneciton", "lname": "Circuit" }
+{ "action": "UpdateEmployee", "id": 1, "role": "TA", "hours": 15, "type": "term", "start_term": "2025-05-01", "end_term": "2035-07-01" }
+{ "action": "UpdateEmployee", "id": 1, "role": "Staff", "hours": 20, "type": "part-time", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 2, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 3, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 4, "role": "RA", "hours": 20, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 5, "role": "RA", "hours": 20, "type": "term" }
+{ "action": "UpdateEmployee", "id": 6, "role": "Staff", "hours": 40, "type": "full-time", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 6, "role": "RA", "hours": 5, "type": "term", "start_term": "2017-03-01", "end_term": "2017-12-01" }
+{ "action": "UpdateEmployee", "id": 7, "role": "Staff", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 8, "role": "Faculty", "hours": 40, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 9, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 9, "role": "Staff", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 10, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 11, "role": "Staff", "hours": 20, "type": "term", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 12, "role": "RA", "hours": 30, "type": "term" }
+{ "action": "UpdateEmployee", "id": 13, "role": "Faculty", "hours": 40, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 14, "role": "RA", "hours": 10, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 14, "role": "TA", "hours": 15, "type": "term" }
+{ "action": "UpdateEmployee", "id": 15, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 16, "role": "Staff", "hours": 20, "type": "continuing", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 17, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 18, "role": "TA", "hours": 20, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 19, "role": "RA", "hours": 20, "type": "term" }
+{ "action": "UpdateEmployee", "id": 20, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 21, "role": "Staff", "hours": 10, "type": "continuing", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 22, "role": "RA", "hours": 30, "type": "term" }
+{ "action": "UpdateEmployee", "id": 23, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 24, "role": "RA", "hours": 15, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 25, "role": "Staff", "hours": 20, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 26, "role": "Staff", "hours": 20, "type": "continuing", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 27, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 28, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 29, "role": "RA", "hours": 15, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 30, "role": "Staff", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 31, "role": "Staff", "hours": 40, "type": "full-time", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 32, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 33, "role": "Faculty", "hours": 40, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 34, "role": "RA", "hours": 20, "type": "term" }
+{ "action": "UpdateEmployee", "id": 35, "role": "RA", "hours": 25, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 36, "role": "Staff", "hours": 20, "type": "part-time", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 37, "role": "RA", "hours": 20, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 38, "role": "Faculty", "hours": 40, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 39, "role": "TA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 40, "role": "RA", "hours": 20, "type": "part-time" }
+{ "action": "UpdateEmployee", "id": 41, "role": "Staff", "hours": 20, "type": "part-time", "start_term": "2017-03-01", "end_term": "2017-10-01" }
+{ "action": "UpdateEmployee", "id": 42, "role": "RA", "hours": 20, "type": "term" }
+{ "action": "UpdateEmployee", "id": 43, "role": "Faculty", "hours": 20, "type": "continuing" }
+{ "action": "UpdateEmployee", "id": 44, "role": "TA", "hours": 20, "type": "full-time" }
+{ "action": "UpdateEmployee", "id": 45, "role": "RA", "hours": 40, "type": "full-time" }
