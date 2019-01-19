@@ -49,13 +49,8 @@ The specific actions being done by the 'transaction.cunics' transaction file are
 - Updating employee with ID '25'
 - Adding employee (Billy Bones)
 - Updating employee with ID '47'
-
-Program Authors:
-	Menna Ahmed
-	Scott Ellerington
-	Brandon Esford
-	Bernard Laveaux
-
+	
+## Files
 Sources:
 	CodeRedCOMP3004.pro
 	start.sh
